@@ -9,17 +9,17 @@
 ## Project Walkthrough
 
 > Data wrangling, which consists of:
-  >Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below).
-  >Assessing data
+  >Gathering data (downloadable file in the Resources tab in the left most panel of your classroom and linked in step 1 below),
+  >Assessing data,
   >Cleaning data
 
 >Storing wrangled data
->Analyzing, and Visualizing data
+>,Analyzing, and Visualizing data
 
 
 ## Installed Packages
-  >pandas,
+  >Pandas,
   >NumPy,
-  >requests,
+  >Requests,
   >tweepy,
   >json
