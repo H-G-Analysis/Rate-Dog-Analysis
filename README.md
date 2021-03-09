@@ -18,8 +18,8 @@
 
 
 ## Installed Packages
-  >pandas
-  >NumPy
-  >requests
-  >tweepy
+  >pandas,
+  >NumPy,
+  >requests,
+  >tweepy,
   >json
